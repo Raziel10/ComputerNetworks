@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#jupyter notebooks
+.ipynb_checkpoints
+
+#mac  hidden files
+.DS_Store
